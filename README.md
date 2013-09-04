@@ -1,12 +1,16 @@
 # 一键安装 you-get 到 windows
 
-简单粗暴，[you-get](https://github.com/soimort/you-get) 安装和环境设置都在同一个批处理文件。卸载请手动
+一个简陋粗暴的批处理脚本，用来安装并设置 [you-get](https://github.com/soimort/you-get)。
 
 ## 使用方法
 
-双击 you-get.bat 文件
+从 [这里](https://github.com/twlz0ne/one-click-install-you-get-on-windows/archive/master.zip) 下载最新的压缩包到本地，解压，双击其中的 `you-get.bat` 文件。
+
+首次使用请耐心等待。
 
 ## exe 来源
+
+脚本中使用的两个 `exe`, 它们都来路正当，安全无毒副作用：
 
 - wget.exe
 
